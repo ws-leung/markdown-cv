@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Winston Leung's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Winston Leung
+Philosopher specialising in Pragmatism and Epistemology
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="winston.s.leung@gmail.com">E:winston.s.leung@gmail.com</a>
 </div>
 
 
